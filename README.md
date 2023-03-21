@@ -1,2 +1,2 @@
-# Pi05 - Functions
-This branch contains functions related to all Pi05 blocks.
+# Trim Codes
+This branch contains the trim codes to trim various pi05 blocks.
