@@ -1,2 +1,2 @@
-# Pi05
-Repository contains all the code required for various pi05 applications like IOR, characterization and trimming.
+# Pi05 - Functions
+This branch contains functions related to all Pi05 blocks.
